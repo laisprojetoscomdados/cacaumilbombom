@@ -1,0 +1,2 @@
+order_id,order_date,customer_id,channel,store_id,order_status
+ORD-202510-0001,2025-10-01,CUST-001,Store,STR-01,Completed
